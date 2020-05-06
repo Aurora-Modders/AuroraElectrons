@@ -1,7 +1,7 @@
 
 {
     "name": "AuroraElectrons",
-    "description": "A slick modern app for sorting and visualizing mining and production. Also includes an engine optimizer.",
+    "description": "A simple app for sorting and visualizing minerals and production. Also includes an engine optimizer and a tech tree.",
     "status": "approved",
     "type": "rootutility",
     "launch_command": "aurora-electrons.exe",
@@ -11,6 +11,11 @@
             "version": "0.4.6",
             "target_aurora_version": "1.9",
             "download_url": "https://raw.githubusercontent.com/Aurora-Modders/AuroraElectrons/master/aurora-electrons-0.4.6.zip"
+        },
+        {
+            "version": "0.4.8",
+            "target_aurora_version": "1.9",
+            "download_url": "https://raw.githubusercontent.com/Aurora-Modders/AuroraElectrons/master/aurora-electrons-0.4.8.zip"
         }
     ]
 }
